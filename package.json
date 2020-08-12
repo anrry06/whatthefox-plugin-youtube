@@ -1,0 +1,28 @@
+{
+  "name": "whatthefox-plugin-youtube",
+  "version": "1.0.0",
+  "description": "Plugin Youtube for the discord bot whatthefox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anrry06/whatthefox-plugin-youtube.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "youtube",
+    "whatthefox"
+  ],
+  "author": "Henri Meunier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anrry06/whatthefox-plugin-youtube/issues"
+  },
+  "homepage": "https://github.com/anrry06/whatthefox-plugin-youtube#readme",
+  "dependencies": {
+    "ytdl-core": "^3.2.1"
+  }
+}
