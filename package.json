@@ -24,5 +24,8 @@
   "homepage": "https://github.com/anrry06/whatthefox-plugin-youtube#readme",
   "dependencies": {
     "ytdl-core": "^3.2.1"
+  },
+  "publishConfig": {
+    "registry":"https://registry.npmjs.org/"
   }
 }
